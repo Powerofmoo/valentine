@@ -1,4 +1,4 @@
-# valentine
+# The Comedy Cache
 Code for Lablab hackathon
 
 ## JavaScript
