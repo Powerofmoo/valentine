@@ -3,9 +3,9 @@ Code for Lablab hackathon
 
 ## JavaScript
 
-comedyCache.frontend.js is the Wix UI
+**comedyCache.frontend.js** is the Wix UI
 
-aiml.web.js is the Wix backend to connect to the AI/ML API (needs API Key as a secret)
+**aiml.web.js is** the Wix backend to connect to the AI/ML API (needs API Key as a secret)
 
 Demo at https://www.powerofmoo.com/valentine
 
